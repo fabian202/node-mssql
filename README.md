@@ -1,2 +1,2 @@
 # node-mssql
-node mssql usin tedious
+node mssql using tedious
